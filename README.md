@@ -15,7 +15,7 @@ It allows users to perform basic banking operations like creating an account, de
 * Check account balance
 * Menu-driven program (easy to use)
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * C Programming Language
 * Standard Libraries (`stdio.h`, `string.h`)
