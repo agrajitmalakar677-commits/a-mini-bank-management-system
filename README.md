@@ -1,13 +1,13 @@
 # a-mini-bank-management-system
-# 🏦 Mini Bank Management System (C)
+#  Mini Bank Management System (C)
 
-## 📌 Project Description
+##  Project Description
 
 This is a simple **Bank Management System** written in C.
 It allows users to perform basic banking operations like creating an account, depositing money, withdrawing money, and checking balance.
 
 
-## 🚀 Features
+##  Features
 
 * Create a new bank account
 * Deposit money
@@ -21,7 +21,7 @@ It allows users to perform basic banking operations like creating an account, de
 * Standard Libraries (`stdio.h`, `string.h`)
 
 
-## ▶️ How to Run
+##  How to Run
 
 1. Download or clone the repository
 2. Open terminal in the project folder
@@ -32,7 +32,7 @@ It allows users to perform basic banking operations like creating an account, de
    ./bank_app
    
 
-## 📷 Sample Output
+##  Sample Output
 
 ===== BANK MANAGEMENT SYSTEM =====
 1. Create Account
@@ -42,7 +42,7 @@ It allows users to perform basic banking operations like creating an account, de
 5. Exit
 
 
-## 📚 Learning Purpose
+##  Learning Purpose
 
 This project is built for:
 
@@ -50,11 +50,11 @@ This project is built for:
 * Understanding structures and functions
 * Practicing menu-driven programs
 
-## 🙌 Author
+##  Author
 Agrajit Malakar
 
 
-## ⭐ Future Improvements
+##  Future Improvements
 
 * Multiple account support
 * File handling (data saving)
